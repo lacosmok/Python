@@ -1,0 +1,20 @@
+﻿klucz początkowy:  1001111101
+klucz 1 rundy:     11011011                     
+klucz 2 rundy:     10111001                         
+
+tekst:                                01100011  
+tekst po PW:                          10100101              
+tekst po szyfrowaniu kluczem rundy 1: 10000101           
+tekst po szyfrowaniu kluczem rundy 2: 00101000              
+tekst zaszyfrowany:                   00110000
+
+
+klucz początkowy:  1101100101
+klucz 1 rundy:     10011010                                    
+klucz 2 rundy:     10011101                                      
+
+tekst:                                01010111
+tekst po PW:                          11001101              '1', '1', '0', '0', '1', '1', '0', '1
+tekst po szyfrowaniu kluczem rundy 1: 11101101               0', '1', '0', '1', '1', '1', '0', '1
+tekst po szyfrowaniu kluczem rundy 2: 01001110               0', '0', '0', '1', '0', '1', '0', '1
+tekst zaszyfrowany:                   00011101
